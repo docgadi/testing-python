@@ -1,4 +1,7 @@
-public class Solution {
+import java.util.ArrayList;
+import java.util.Arrays;
+
+class Solution {
     public static int[] solution(int[] data, int n) {
         // Your code here
         ArrayList<Integer> dataArrayList = new ArrayList<Integer>();
