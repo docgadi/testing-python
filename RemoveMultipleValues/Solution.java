@@ -22,3 +22,6 @@ public class Solution {
         return output;
     }
 }
+
+Solution.solution({1, 2, 3}, 0);
+Solution.solution({1, 2, 2, 3, 3, 3, 4, 5, 5}, 1); //[1,4]
